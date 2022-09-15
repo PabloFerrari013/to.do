@@ -37,4 +37,4 @@ $ yarn
 # Start the project
 yarn dev
 ```
-The app is available in your browser at http://localhost:3000/
+The app is available in your browser at http://localhost:8080/
