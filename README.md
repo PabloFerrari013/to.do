@@ -35,6 +35,6 @@ To start it, follow the steps below:
 $ yarn 
 
 # Start the project
-yarn start
+yarn dev
 ```
 The app is available in your browser at http://localhost:3000/
